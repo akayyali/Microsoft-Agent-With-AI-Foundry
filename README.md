@@ -1,4 +1,4 @@
-# Microsoft AgentWeb API Consuming Azure AI Foundry Prebuilt Agent
+# Microsoft Agent Web API Consuming Azure AI Foundry Prebuilt Agent
 ## This is a Demo that showcases how to consume an Azure AI Foundry Agent using Microsoft Agent Framework.
 
 When to use this pattern:
